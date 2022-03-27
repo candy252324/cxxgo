@@ -1,0 +1,29 @@
+{
+  "name": "@cxxgo/core",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "cjh <1964646121@qq.com>",
+  "homepage": "https://github.com/candy252324/cxxgo/tree/main/packages/core#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candy252324/cxxgo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/candy252324/cxxgo/issues"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
