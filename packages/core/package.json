@@ -25,5 +25,9 @@
   },
   "dependencies": {
     "moment": "^2.29.1"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "7cee43d2fee674428f88f123bf802937cdbab6d1"
 }
