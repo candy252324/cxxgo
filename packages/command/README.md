@@ -1,11 +1,11 @@
-# `@cxxgo/utils`
+# `@cxxgo/command`
 
 > TODO: description
 
 ## Usage
 
 ```
-const utils = require('@cxxgo/utils');
+const command = require('@cxxgo/command');
 
 // TODO: DEMONSTRATE API
 ```
